@@ -1,0 +1,11 @@
+/* global styles */
+body {
+  background-color: #abdbe3;
+  color: white;
+}
+h1 {
+  color: #Ff1d22;/* torch red */
+}
+h2 {
+  color: #4db341; /* apple green */
+}
