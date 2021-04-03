@@ -24,6 +24,6 @@ button:hover {
   cursor: pointer;
 }
 footer p {
-  display: relative;
+  position: relative;
   bottom: 5%; 
 }
