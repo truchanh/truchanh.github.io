@@ -11,3 +11,9 @@ h1 {
 h2 {
   color: #4db341; /* apple green */
 }
+button {
+  padding: 10px;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+}
