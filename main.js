@@ -4,7 +4,7 @@ let selectValue = () => {
   return Math.floor(Math.random()*256);
 }
 let randomColor = function() {
-  let randColor = `rgb(${ selectValue() }, ${ selectValue() }, ${ selectValue() })`;
+  let randColor = `rgb(${selectValue()},${selectValue()},${selectValue()})`;
   txt.style.color = randColor;
 }
 btn.onclick = randomColor;
