@@ -17,3 +17,7 @@ button {
   border: none;
   border-radius: 5px;
 }
+button:hover {
+  opacity: .8;
+  transition: .2s;
+}
