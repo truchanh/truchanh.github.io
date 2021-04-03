@@ -1,15 +1,13 @@
 /* global styles */
 html,
 body {
+  font-size: 16px;
   background-color: #333;
   color: white;
   font-family: Quicksand, sans-serif;
 }
 h1 {
-  color: #Ff1d22;/* torch red */
-}
-h2 {
-  color: #4db341; /* apple green */
+  font-size: 3rem;/*48px*/
 }
 button {
   padding: 10px;
